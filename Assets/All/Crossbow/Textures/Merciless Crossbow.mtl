@@ -1,0 +1,8 @@
+newmtl LHand_Weapons
+    Ns 9.999999
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd Merciless Crossbow_Default_01.jpg
+    map_Bump Merciless Crossbow_Default_03.jpg
